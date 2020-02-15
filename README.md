@@ -3,4 +3,4 @@ F5社のダウンロードサイトに日本からダウンロードするため
 
 ダウンロードまでのステップが一つ減ります。
 
-!(/docs/F5_Download_From_Japan.png)
+!F5_Download_From_Japan(/docs/F5_Download_From_Japan.png "F5_Download_From_Japan.png")
